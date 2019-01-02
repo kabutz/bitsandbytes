@@ -1,0 +1,25 @@
+1. Welcome - Course Origin, Expected Outcomes, Who it is for, Code Samples
+2. What are bits, bytes and nibbles?
+3. How many bytes does each primitive type use in Java?
+4. Converting between base 10 (decimal) and base 5.
+5. Converting between decimal and binary
+6. Converting between binary and octal
+7. Converting between binary and hexadecimal
+8. Bitwise operators OR (|) and AND (&)
+9. Bitwise operator XOR (^) and COMPLEMENT (~)
+10. Shift left <<
+11. Shift right, signed >> and unsigned >>>
+12. Writing a BitPrinter
+13. Exploring bits in integer values and why ~0 == -1
+14. Masking individual bits inside a number
+15. Why Math.abs(num) might be negative
+16. Exploring how floating point numbers work
+  https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+17. Evolution of hash() in Java HashMap
+18. Minimizing bucket collisions in HashMap
+19. java.util.BitSet (example usage ArrayList.removeIf in Java 8)
+20. EnumSet vs bit masking (example usage Spliterator)
+21. Finding midpoint of two ints without overflowing (from Spliterators)
+22. Modifiers in Reflection
+23. Conclusion
+
